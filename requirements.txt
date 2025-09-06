@@ -3,5 +3,6 @@ numpy
 seaborn
 matplotlib
 # -e .
-.artifacts
-*.sage.py
+dill
+xgboost
+scikit-learn
