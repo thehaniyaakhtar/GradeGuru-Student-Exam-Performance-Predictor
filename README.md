@@ -35,10 +35,12 @@ By integrating these diverse factors, GradeGuru provides a more holistic predict
 
 ## ⚙️ Tech Stack  
 
-- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-learn, Joblib  
+- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-learn  
 - **Backend:** Flask  
 - **Visualization:** Matplotlib, Seaborn  
-- **Environment:** Jupyter Notebook for experimentation, Flask for deployment  
+- **Environment:** Jupyter Notebook for experimentation, Flask for deployment
+- **Deployement:** Vercel  
+
 
 ---
 
