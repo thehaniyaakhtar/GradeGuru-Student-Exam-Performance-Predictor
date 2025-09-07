@@ -53,13 +53,13 @@ The project includes exploratory data analysis (EDA) and visualization modules t
 
 These visualizations guide model design and provide insights into which situational and psychological factors most affect student outcomes.  
 
-<img width="394" height="356" alt="correaltion" src="https://github.com/user-attachments/assets/524c1ccd-2d74-4795-b08d-a3d496225748" />
+<img width="394" height="356" alt="correlation" src="https://github.com/user-attachments/assets/524c1ccd-2d74-4795-b08d-a3d496225748" />
 <img width="416" height="226" alt="graph" src="https://github.com/user-attachments/assets/d714e8aa-b0ab-4a7c-ba8f-9b3baabf8ecd" />
 <img width="602" height="187" alt="boxes" src="https://github.com/user-attachments/assets/26f5a8e6-8bdd-4ff4-a85b-03554e51ed30" />
 
 ---
 
-## 🏁 The App
+## 🏁 The WebApp
 
 <img width="1104" height="1080" alt="Screenshot (554)" src="https://github.com/user-attachments/assets/f5549018-f66c-46e4-9719-432d2cf869b4" />
 
