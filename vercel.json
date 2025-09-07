@@ -2,12 +2,13 @@
   "version": 2,
   "functions": {
     "api/index.py": {
-      "runtime": "python3.11"
+      "runtime": "python3.10",
+      "includeFiles": "artifacts/**"
     }
   },
   "routes": [
-    { "src": "/api/(.*)", "dest": "/api/index.py" },
-    { "src": "/(.*)", "dest": "/api/index.py" }
+    { "src": "/api/(.*)", "dest": "api/index.py" },
+    { "src": "/(.*)", "dest": "api/index.py" }
   ]
 }
 
