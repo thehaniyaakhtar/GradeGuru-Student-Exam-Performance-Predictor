@@ -76,10 +76,3 @@ These visualizations guide model design and provide insights into which situatio
 
 ---
 
-## 🏁 Getting Started  
-
-### Prerequisites  
-- Python 3.8+  
-- Install dependencies:  
-  ```bash
-  pip install -r requirements.txt
